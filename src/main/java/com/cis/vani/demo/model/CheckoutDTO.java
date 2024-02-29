@@ -1,9 +1,5 @@
-package com.cis.siva.demo.model;
+package com.cis.vani.demo.model;
 
-import com.cis.siva.demo.entity.LibraryMember;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
 import lombok.Data;
 
 import java.util.Date;

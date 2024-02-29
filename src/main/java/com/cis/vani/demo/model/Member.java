@@ -1,4 +1,4 @@
-package com.cis.siva.demo.model;
+package com.cis.vani.demo.model;
 
 import lombok.Data;
 

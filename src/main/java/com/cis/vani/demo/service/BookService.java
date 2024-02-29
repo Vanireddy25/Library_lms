@@ -1,10 +1,10 @@
-package com.cis.siva.demo.service;
+package com.cis.vani.demo.service;
 
-import com.cis.siva.demo.entity.BookIsbn;
-import com.cis.siva.demo.entity.LibraryBook;
-import com.cis.siva.demo.model.Book;
-import com.cis.siva.demo.model.BookIsbnDTO;
-import com.cis.siva.demo.repository.LibraryBookRepository;
+import com.cis.vani.demo.entity.BookIsbn;
+import com.cis.vani.demo.entity.LibraryBook;
+import com.cis.vani.demo.model.Book;
+import com.cis.vani.demo.model.BookIsbnDTO;
+import com.cis.vani.demo.repository.LibraryBookRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,10 +1,10 @@
-package com.cis.siva.demo.service;
+package com.cis.vani.demo.service;
 
-import com.cis.siva.demo.entity.LibraryMember;
-import com.cis.siva.demo.model.Member;
-import com.cis.siva.demo.model.AddressDTO;
-import com.cis.siva.demo.model.CheckoutDTO;
-import com.cis.siva.demo.repository.LIbraryMemberRepository;
+import com.cis.vani.demo.entity.LibraryMember;
+import com.cis.vani.demo.model.Member;
+import com.cis.vani.demo.model.AddressDTO;
+import com.cis.vani.demo.model.CheckoutDTO;
+import com.cis.vani.demo.repository.LIbraryMemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.*;

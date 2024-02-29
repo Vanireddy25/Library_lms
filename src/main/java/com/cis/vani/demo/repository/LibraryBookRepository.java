@@ -1,6 +1,6 @@
-package com.cis.siva.demo.repository;
+package com.cis.vani.demo.repository;
 
-import com.cis.siva.demo.entity.LibraryBook;
+import com.cis.vani.demo.entity.LibraryBook;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface LibraryBookRepository extends JpaRepository<LibraryBook, Integer> {

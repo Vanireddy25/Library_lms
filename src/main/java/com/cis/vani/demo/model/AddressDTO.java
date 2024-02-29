@@ -1,11 +1,6 @@
-package com.cis.siva.demo.model;
+package com.cis.vani.demo.model;
 
-import com.cis.siva.demo.entity.LibraryMember;
-import jakarta.persistence.Id;
-import jakarta.persistence.OneToMany;
 import lombok.Data;
-
-import java.util.List;
 
 @Data
 public class AddressDTO {

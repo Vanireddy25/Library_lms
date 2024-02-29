@@ -1,11 +1,9 @@
-package com.cis.siva.demo.controller;
+package com.cis.vani.demo.controller;
 
-import com.cis.siva.demo.model.Book;
-import com.cis.siva.demo.service.BookService;
+import com.cis.vani.demo.model.Book;
+import com.cis.vani.demo.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
 
 @RestController
 @RequestMapping("/books")
